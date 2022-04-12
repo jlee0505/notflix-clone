@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/notflix-clone/static/js/main.e696825d.js",
+    "index.html": "/notflix-clone/index.html",
+    "main.e696825d.js.map": "/notflix-clone/static/js/main.e696825d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e696825d.js"
+  ]
+}
